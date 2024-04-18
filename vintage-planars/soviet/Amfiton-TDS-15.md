@@ -15,10 +15,10 @@
 Frequency response from manual ([recent measurements](#measurements) at the bottom of the page).
 ![image](https://github.com/ludoo/HeadphoneGits/assets/66007/33751426-a43a-4eba-9304-9eb746ad147a)
 
-
 # Links
 
-- [lossy.ru thread](http://www.lossy.ru/forums/showthread.php?t=30)
+- [lossy.ru TDS-15 thread](http://www.lossy.ru/forums/showthread.php?t=30)
+- [lossy.ru driver repair post](http://www.lossy.ru/forums/showpost.php?p=22061&postcount=5)
 
 # Modding
 
@@ -50,15 +50,18 @@ Different grilles, ridged strain reliefs, USSR logo before "Amfiton" marking can
 
 > TODO(ludo): take better shots
 
+# Sverdlovsk
+
+Different markings on the cups, use of screws, seems related to [this model](http://www.lossy.ru/forums/showpost.php?p=26635&postcount=265) and be from the Sverdlovsk factory ([logo identification](http://www.lossy.ru/forums/showpost.php?p=26644&postcount=267)).
+
+<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/0ca38bf4-11fb-4e1b-beec-4e6df5dbb701"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/0ca38bf4-11fb-4e1b-beec-4e6df5dbb701" width="360" /></a>
+<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/45bb9b3f-f4d4-4200-a11c-1ebddc8d0753"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/45bb9b3f-f4d4-4200-a11c-1ebddc8d0753" width="360" /></a>
+
 ## Unidentified versions
 
 No "stereo" relief on left side of cups, colored strain relief similar to the TDS-16/16 (indicative of Ukrainian manufacturing?).
 
 <a href="https://github.com/ludoo/HeadphoneGits/assets/66007/c20f4073-833e-40ce-8175-fe6dd9901a8e"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/c20f4073-833e-40ce-8175-fe6dd9901a8e" width="360" /></a>
-
-Different markings on the cups.
-
-<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/58251b5b-0be0-424c-b04d-f61aef245b5e"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/58251b5b-0be0-424c-b04d-f61aef245b5e" width="360" /></a>
 
 # Measurements
 
