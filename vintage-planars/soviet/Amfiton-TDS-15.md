@@ -1,4 +1,4 @@
-[Vintage Planars](../..) / [Soviet Planars](..) / Amfiton TDS-15
+[Vintage Planars](../) / [Soviet Planars](./) / **Amfiton TDS-15**
 
 **Impedance:** 16 Ohm  
 **Sensitivity:** 94 dB  
