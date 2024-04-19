@@ -65,6 +65,11 @@ No "stereo" relief on left side of cups, colored strain relief similar to the TD
 
 # Measurements
 
+Reference Audio Analyzer Pro [measurements](https://reference-audio-analyzer.pro/en/param6.php?idhp=731&idmain=731&ls=1#gsc.tab=0).
+
+![image](https://github.com/ludoo/HeadphoneGits/assets/66007/7549d948-8b41-4917-9550-d554295e13eb)
+
+
 Flat plate custom rig measurements using an Umik-1 microphone. Red = Leningrad version, Blue = Kishinev green version, Grey = Stax L500 as reference. Similar damping used on the two headphones but different materials, which could explain in part the minor differences in frequency response.
 
 ![image](https://github.com/ludoo/HeadphoneGits/assets/66007/9d6c3889-b3c8-4ee7-83cb-d0fd6ee77a30)
