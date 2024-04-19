@@ -15,7 +15,7 @@
 **Cable brand:** LPPV 4*0.8 mm2
 
 Frequency response from manual ([recent measurements](#measurements) at the bottom of the page).
-![image](https://github.com/ludoo/HeadphoneGits/assets/66007/33751426-a43a-4eba-9304-9eb746ad147a)
+![image](https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/33751426-a43a-4eba-9304-9eb746ad147a.png)
 
 # Links
 
@@ -38,8 +38,8 @@ Relief on the side indicates production factory, as usual with Soviet-made headp
 
 Smooth strain reliefs. "Stereo" markings on cup can be missing.
 
-<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/4436b487-1cda-4ff3-92b8-49ac20d84441"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/4436b487-1cda-4ff3-92b8-49ac20d84441" width="360" /></a>
-<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/d2e747e9-ff21-4597-b6ef-e593927cbbbd"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/d2e747e9-ff21-4597-b6ef-e593927cbbbd" width="360" /></a>
+<a href="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/4436b487-1cda-4ff3-92b8-49ac20d84441.png"><img src="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/4436b487-1cda-4ff3-92b8-49ac20d84441.png" width="360" /></a>
+<a href="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/d2e747e9-ff21-4597-b6ef-e593927cbbbd.png"><img src="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/d2e747e9-ff21-4597-b6ef-e593927cbbbd.png" width="360" /></a>
 
 > TODO(ludo): take better shots
 
@@ -47,8 +47,8 @@ Smooth strain reliefs. "Stereo" markings on cup can be missing.
 
 Different grilles, ridged strain reliefs, USSR logo before "Amfiton" marking can be replaced by dots, markings can be colored in gold.
 
-<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/0918833d-9f0e-447a-a37c-2a9f8d1d390f"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/0918833d-9f0e-447a-a37c-2a9f8d1d390f" width="360" /></a>
-<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/153680d7-af47-4a49-9c2c-d667a13855cc"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/153680d7-af47-4a49-9c2c-d667a13855cc" width="360" /></a>
+<a href="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/0918833d-9f0e-447a-a37c-2a9f8d1d390f.png"><img src="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/0918833d-9f0e-447a-a37c-2a9f8d1d390f.png" width="360" /></a>
+<a href="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/153680d7-af47-4a49-9c2c-d667a13855cc.png"><img src="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/153680d7-af47-4a49-9c2c-d667a13855cc.png" width="360" /></a>
 
 > TODO(ludo): take better shots
 
@@ -56,22 +56,22 @@ Different grilles, ridged strain reliefs, USSR logo before "Amfiton" marking can
 
 Different markings on the cups, use of screws, seems related to [this model](http://www.lossy.ru/forums/showpost.php?p=26635&postcount=265) and be from the Sverdlovsk factory ([logo identification](http://www.lossy.ru/forums/showpost.php?p=26644&postcount=267)).
 
-<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/0ca38bf4-11fb-4e1b-beec-4e6df5dbb701"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/0ca38bf4-11fb-4e1b-beec-4e6df5dbb701" width="360" /></a>
-<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/45bb9b3f-f4d4-4200-a11c-1ebddc8d0753"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/45bb9b3f-f4d4-4200-a11c-1ebddc8d0753" width="360" /></a>
+<a href="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/0ca38bf4-11fb-4e1b-beec-4e6df5dbb701.png"><img src="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/0ca38bf4-11fb-4e1b-beec-4e6df5dbb701.png" width="360" /></a>
+<a href="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/45bb9b3f-f4d4-4200-a11c-1ebddc8d0753.png"><img src="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/45bb9b3f-f4d4-4200-a11c-1ebddc8d0753.png" width="360" /></a>
 
 ## Unidentified versions
 
 No "stereo" relief on left side of cups, colored strain relief similar to the TDS-16/16 (indicative of Ukrainian manufacturing?).
 
-<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/c20f4073-833e-40ce-8175-fe6dd9901a8e"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/c20f4073-833e-40ce-8175-fe6dd9901a8e" width="360" /></a>
+<a href="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/c20f4073-833e-40ce-8175-fe6dd9901a8e.png"><img src="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/c20f4073-833e-40ce-8175-fe6dd9901a8e.png" width="360" /></a>
 
 # Measurements
 
 Reference Audio Analyzer Pro [measurements](https://reference-audio-analyzer.pro/en/param6.php?idhp=731&idmain=731&ls=1#gsc.tab=0).
 
-![image](https://github.com/ludoo/HeadphoneGits/assets/66007/7549d948-8b41-4917-9550-d554295e13eb)
+![image](https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/7549d948-8b41-4917-9550-d554295e13eb.png)
 
 
 Flat plate custom rig measurements using an Umik-1 microphone. Red = Leningrad version, Blue = Kishinev green version, Grey = Stax L500 as reference. Similar damping used on the two headphones but different materials, which could explain in part the minor differences in frequency response.
 
-![image](https://github.com/ludoo/HeadphoneGits/assets/66007/9d6c3889-b3c8-4ee7-83cb-d0fd6ee77a30)
+![image](https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/9d6c3889-b3c8-4ee7-83cb-d0fd6ee77a30.png)
