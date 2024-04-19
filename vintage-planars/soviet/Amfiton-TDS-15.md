@@ -1,4 +1,4 @@
-[Vintage Planars](../..) / [Soviet Planars)(../)
+[Vintage Planars](../..) / [Soviet Planars](..)
 
 **Impedance:** 16 Ohm  
 **Sensitivity:** 94 dB  
