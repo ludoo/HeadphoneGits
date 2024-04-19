@@ -1,3 +1,5 @@
+[Vintage Planars](../..) / [Soviet Planars)(..)
+
 **Impedance:** 16 Ohm  
 **Sensitivity:** 94 dB  
 **Frequency range:** 20-20,000 Hz  
