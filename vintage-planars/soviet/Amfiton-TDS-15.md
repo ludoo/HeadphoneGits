@@ -28,7 +28,7 @@ Replacement pads can be found on Aliexpress: [Sony MDR-ZX100 / V150 corrugated p
 
 Once pads are replaced damping is generally very easy: soft woolen or synthetic tissue seems to work well, one or two discs in the back are generally enough. Cotton pads as used in the Russian forum also work, but tend to reduce mids and raise highs too much for these headphones.
 
-Disassembly is very easy: remove the silver outer rings rings, then flex the clips to slide the driver assembly out ([pictures](http://www.lossy.ru/forums/showpost.php?p=5505&postcount=25)). Driver polarity is commented on in [this lossy.ru post](http://www.lossy.ru/forums/attachment.php?attachmentid=4636&d=1349778109) and its replies. 
+Disassembly is very easy: remove the silver outer rings rings, then flex the clips to slide the driver assembly out ([pictures](http://www.lossy.ru/forums/showpost.php?p=5505&postcount=25)). Driver polarity is commented on in [this lossy.ru post](http://www.lossy.ru/forums/showthread.php?p=17914#post17914) and its replies. 
 
 # Production variance
 
