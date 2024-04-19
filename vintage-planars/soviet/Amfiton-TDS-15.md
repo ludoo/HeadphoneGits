@@ -43,7 +43,7 @@ Smooth strain reliefs. "Stereo" markings on cup can be missing.
 
 Some Leningrad versions have gold driver tracks and grilles.
 
-<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/36b6e15f-dc54-4251-9a4a-4c0f87a8abaa"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/36b6e15f-dc54-4251-9a4a-4c0f87a8abaa" width="360" /></a>
+<a href="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/36b6e15f-dc54-4251-9a4a-4c0f87a8abaa.png"><img src="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/36b6e15f-dc54-4251-9a4a-4c0f87a8abaa.png" width="360" /></a>
 
 > TODO(ludo): take better shots
 
