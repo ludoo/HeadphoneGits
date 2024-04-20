@@ -27,3 +27,10 @@ Frequency response from manual
 
 ## Production variants
 
+### NPO Kvant (Kiev)
+
+See [this lossy.ru post](http://www.lossy.ru/forums/showpost.php?p=5958&postcount=82). Seem to be also [branded as 'Spectrum'](http://www.lossy.ru/forums/showpost.php?p=6559&postcount=103) instead of 'Echo'.
+
+### Orizon plant (Smela)
+
+[Post on lossy.ru discussing the relative qualities](http://www.lossy.ru/forums/showpost.php?p=7789&postcount=164) (Smelov considered to be inferior), these the TDS-16/40 which are a different model with a different driver technology (see pictures in the [first post of the lossy.ru thread](http://www.lossy.ru/forums/showpost.php?p=17&postcount=1) which are indeed the 16/40).
