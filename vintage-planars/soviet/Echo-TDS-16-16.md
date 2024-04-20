@@ -2,12 +2,12 @@
 
 [Vintage Planars](../) / [Soviet Planars](./) / **Echo TDS-16/16**
 
-**Frequency range:** 20-20,000 Hz
-**Resistance:** 16Ohm
-**Rated power:** 2mW
-**Sensitivity:** 94dB
-**Nameplate power:** 100mW
-**Dimensions:** 80mmx180mmx245mm
+**Frequency range:** 20-20,000Hz  
+**Resistance:** 16Ohm  
+**Rated power:** 2mW  
+**Sensitivity:** 94dB  
+**Nameplate power:** 100mW  
+**Dimensions:** 80mmx180mmx245mm  
 **Weight without cable:** 300g
 
 Frequency response from manual
