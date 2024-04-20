@@ -8,7 +8,14 @@
 **Sensitivity:** 94dB  
 **Nameplate power:** 100mW  
 **Dimensions:** 80mmx180mmx245mm  
-**Weight without cable:** 300g
+**Weight without cable:** 300g  
+**Magnet brand:** M7BI300  
+**Magnet diameter:** 55mm  
+**Membrane material:** polyethylene terephthalate film 8 microns thick  
+**Voice coil material:** aluminum foil 14 microns thick  
+**Voice coil conductor width:** 9 microns  
+**Distance between turns:** 9 microns  
+**Number of turns:** 76
 
 Frequency response from manual
 
