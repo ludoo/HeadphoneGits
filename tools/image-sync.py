@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+'Download locally and replace GitHub CDN images in Markdown files.'
 
 import collections
 import glob
@@ -13,7 +14,7 @@ IMGDIR_PATH = 'assets'
 R = re.compile(r'(?sm)https://github.com/ludoo/HeadphoneGits/assets/[^\s\)"]+')
 
 Document = collections.namedtuple('Document', 'path image_basepath text')
-Image = collections.namedtuple('Image', 'url path', defaults=[None])
+Image = collections.namedtuple('Image', 'url path')
 
 
 class Error(Exception):
@@ -21,12 +22,14 @@ class Error(Exception):
 
 
 def _get_image_from_fs(abspath):
+  'Return first fylesystem glob match for path.'
   results = glob.glob(f'{abspath}*')
   if results:
     return results[0]
 
 
 def _get_image_from_cdn(abspath, url):
+  'Fetch image from GitHub CDN and store it locally returning its path.'
   response = requests.get(url, stream=True)
   if not response.ok:
     raise Error(f'{response.code} {response.reason} for url {url}')

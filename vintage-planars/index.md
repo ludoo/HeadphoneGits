@@ -1,3 +1,3 @@
-**Vintage Planars**
+# Vintage Planars
 
 - [Soviet Planars](./soviet)
