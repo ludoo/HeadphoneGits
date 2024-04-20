@@ -2,10 +2,15 @@
 
 [Vintage Planars](../) / [Soviet Planars](./) / **Echo TDS-16/16**
 
-**Nominal power:** 1mW  
-**Nameplate power:** 750mW  
-**Weight without cable:** 0.18kg  
-**Overall dimensions:** 220mmx170mmx68mm
+**Frequency range:** 20-20,000 Hz
+**Resistance:** 16Ohm
+**Rated power:** 2mW
+**Sensitivity:** 94dB
+**Nameplate power:** 100mW
+**Dimensions:** 80mmx180mmx245mm
+**Weight without cable:** 300g
+
+Frequency response from manual ![image](https://github.com/ludoo/HeadphoneGits/assets/66007/4917c2c0-8a48-43e8-9de2-59a92fe8e7d2)
 
 # Links
 
