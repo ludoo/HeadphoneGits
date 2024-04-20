@@ -19,12 +19,12 @@
 Frequency response from manual ([recent measurements](#measurements) at the bottom of the page).
 ![image](https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/33751426-a43a-4eba-9304-9eb746ad147a.png)
 
-# Links
+## Links
 
 - [lossy.ru TDS-15 thread](http://www.lossy.ru/forums/showthread.php?t=30)
 - [lossy.ru driver repair post](http://www.lossy.ru/forums/showpost.php?p=22061&postcount=5)
 
-# Modding
+## Modding
 
 Replacement pads can be found on Aliexpress: [Sony MDR-ZX100 / V150 corrugated pads](https://www.aliexpress.com/item/1005005583913815.html?spm=a2g0o.order_list.order_list_main.50.769e1802N21afG) are a good substitute. Just cut the bottom lip and fix using double-sided tape. To protect the driver, small discs of acoustically neutral foam can be used to cover the pad holes.
 
@@ -32,11 +32,11 @@ Once pads are replaced damping is generally very easy: soft woolen or synthetic 
 
 Disassembly is very easy: remove the silver outer rings rings, then flex the clips to slide the driver assembly out ([pictures](http://www.lossy.ru/forums/showpost.php?p=5505&postcount=25)). Driver polarity is commented on in [this lossy.ru post](http://www.lossy.ru/forums/showthread.php?p=17914#post17914) and its replies.
 
-# Production variance
+## Production variants
 
 Relief on the side indicates production factory, as usual with Soviet-made headphones. Cable strain reliefs and markings are also different across production runs, and even inside the same factory.
 
-## Leningrad factory
+### Leningrad factory
 
 Smooth strain reliefs. "Stereo" markings on cup can be missing.
 
@@ -49,7 +49,7 @@ Some Leningrad versions have gold driver tracks and grilles.
 
 > TODO(ludo): take better shots
 
-## Chișinău (Kishinev) factory
+### Chișinău (Kishinev) factory
 
 Different grilles, ridged strain reliefs, USSR logo before "Amfiton" marking can be replaced by dots, markings can be colored in gold.
 
@@ -58,20 +58,20 @@ Different grilles, ridged strain reliefs, USSR logo before "Amfiton" marking can
 
 > TODO(ludo): take better shots
 
-# Sverdlovsk
+### Sverdlovsk
 
 Different markings on the cups, use of screws, seems related to [this model](http://www.lossy.ru/forums/showpost.php?p=26635&postcount=265) and be from the Sverdlovsk factory ([logo identification](http://www.lossy.ru/forums/showpost.php?p=26644&postcount=267)).
 
 <a href="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/0ca38bf4-11fb-4e1b-beec-4e6df5dbb701.png"><img src="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/0ca38bf4-11fb-4e1b-beec-4e6df5dbb701.png" width="360" /></a>
 <a href="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/45bb9b3f-f4d4-4200-a11c-1ebddc8d0753.png"><img src="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/45bb9b3f-f4d4-4200-a11c-1ebddc8d0753.png" width="360" /></a>
 
-## Unidentified versions
+### Unidentified versions
 
 No "stereo" relief on left side of cups, colored strain relief similar to the TDS-16/16 (indicative of Ukrainian manufacturing?).
 
 <a href="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/c20f4073-833e-40ce-8175-fe6dd9901a8e.png"><img src="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/c20f4073-833e-40ce-8175-fe6dd9901a8e.png" width="360" /></a>
 
-# Measurements
+## Measurements
 
 Reference Audio Analyzer Pro [measurements](https://reference-audio-analyzer.pro/en/param6.php?idhp=731&idmain=731&ls=1#gsc.tab=0).
 
