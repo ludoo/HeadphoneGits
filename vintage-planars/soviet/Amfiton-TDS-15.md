@@ -1,3 +1,5 @@
+# Amfiton TDS-15
+
 [Vintage Planars](../) / [Soviet Planars](./) / **Amfiton TDS-15**
 
 **Impedance:** 16 Ohm  
@@ -28,7 +30,7 @@ Replacement pads can be found on Aliexpress: [Sony MDR-ZX100 / V150 corrugated p
 
 Once pads are replaced damping is generally very easy: soft woolen or synthetic tissue seems to work well, one or two discs in the back are generally enough. Cotton pads as used in the Russian forum also work, but tend to reduce mids and raise highs too much for these headphones.
 
-Disassembly is very easy: remove the silver outer rings rings, then flex the clips to slide the driver assembly out ([pictures](http://www.lossy.ru/forums/showpost.php?p=5505&postcount=25)). Driver polarity is commented on in [this lossy.ru post](http://www.lossy.ru/forums/showthread.php?p=17914#post17914) and its replies. 
+Disassembly is very easy: remove the silver outer rings rings, then flex the clips to slide the driver assembly out ([pictures](http://www.lossy.ru/forums/showpost.php?p=5505&postcount=25)). Driver polarity is commented on in [this lossy.ru post](http://www.lossy.ru/forums/showthread.php?p=17914#post17914) and its replies.
 
 # Production variance
 
@@ -74,7 +76,6 @@ No "stereo" relief on left side of cups, colored strain relief similar to the TD
 Reference Audio Analyzer Pro [measurements](https://reference-audio-analyzer.pro/en/param6.php?idhp=731&idmain=731&ls=1#gsc.tab=0).
 
 ![image](https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/7549d948-8b41-4917-9550-d554295e13eb.png)
-
 
 Flat plate custom rig measurements using an Umik-1 microphone. Red = Leningrad version, Blue = Kishinev green version, Grey = Stax L500 as reference. Similar damping used on the two headphones but different materials, which could explain in part the minor differences in frequency response.
 
