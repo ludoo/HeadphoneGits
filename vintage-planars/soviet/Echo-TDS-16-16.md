@@ -21,6 +21,9 @@ Frequency response from manual
 
 ![image](https://github.com/ludoo/HeadphoneGits/assets/66007/4917c2c0-8a48-43e8-9de2-59a92fe8e7d2)
 
-# Links
+## Links
 
 - [lossy.ru TDS-16 thread](http://www.lossy.ru/forums/showthread.php?t=9)
+
+## Production variants
+
