@@ -4,4 +4,4 @@
 
 Driver.
 <br>
-<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/0fd06d13-1556-4801-b7cf-aa1f956378bf"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/0fd06d13-1556-4801-b7cf-aa1f956378bf" width="480" /></a>
+<a href="https://headphonegits.org/assets/vintage-planars/soviet/Echo-TDS-16-40/0fd06d13-1556-4801-b7cf-aa1f956378bf.png"><img src="https://headphonegits.org/assets/vintage-planars/soviet/Echo-TDS-16-40/0fd06d13-1556-4801-b7cf-aa1f956378bf.png" width="480" /></a>
