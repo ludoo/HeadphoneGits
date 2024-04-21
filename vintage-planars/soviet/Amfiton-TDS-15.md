@@ -20,6 +20,7 @@ Frequency response from manual ([recent measurements](#measurements) at the bott
 ![image](https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/33751426-a43a-4eba-9304-9eb746ad147a.png)
 
 Driver.
+<br>
 <a href="https://github.com/ludoo/HeadphoneGits/assets/66007/bcfbda4d-03b6-4609-85db-d97ede5cc934"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/bcfbda4d-03b6-4609-85db-d97ede5cc934" width="720" /></a>
 
 ## Links
