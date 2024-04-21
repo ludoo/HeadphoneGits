@@ -21,6 +21,10 @@ Frequency response from manual ([recent measurements](#measurements) at the bott
 
 ![image](https://github.com/ludoo/HeadphoneGits/assets/66007/4917c2c0-8a48-43e8-9de2-59a92fe8e7d2)
 
+Driver (Kiev version).
+
+<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/669ed810-ba91-489a-b9f7-11f24672843b"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/669ed810-ba91-489a-b9f7-11f24672843b" width="720" /></a>
+
 ## Links
 
 - [lossy.ru TDS-16 thread](http://www.lossy.ru/forums/showthread.php?t=9)
