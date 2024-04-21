@@ -13,8 +13,6 @@ jobs:
   image-sync:
     name: Sync GitHub CDN images in pages
     runs-on: ubuntu-latest
-    container:
-      options: --user=root
     steps:
       - uses: actions/checkout@v4
 
