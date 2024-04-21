@@ -31,7 +31,6 @@ jobs:
       - name: Sync images
         id: image-sync
         run: |
-          sudo chown -R $USER assets &&
           python3 tools/image-sync.py .
 
       - name: Commit changes

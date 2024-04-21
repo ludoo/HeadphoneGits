@@ -37,6 +37,11 @@ def _get_image_from_cdn(abspath, url):
   if not content_type.startswith('image/'):
     raise Error(f'Incorrect content type {content_type} for URL {url}')
   abspath = '.'.join([abspath, content_type.split('/')[1]])
+  logging.info(f'-- storing {abspath}')
+  try:
+    os.makedirs(os.dirname(abspath), exist_ok=True)
+  except Exception as e:
+    raise Error(f'Cannot create folder. {e.args[0]}')
   try:
     open(abspath, 'wb').write(response.raw.read())
   except (IOError, OSError) as e:
