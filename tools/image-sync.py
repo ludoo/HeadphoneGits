@@ -40,6 +40,7 @@ def _get_image_from_cdn(abspath, url):
   try:
     open(abspath, 'wb').write(response.raw.read())
   except (IOError, OSError) as e:
+    logging.critical(abspath)
     raise Error(f'Cannot write image to filesystem. {e.args[0]}')
   return abspath
 
@@ -70,6 +71,7 @@ def get_image(url, basepath, rootpath):
 def main(root_path):
   'Program entry point.'
   logging.basicConfig(level=logging.INFO)
+  logging.info(f'starting in {os.getcwd()}')
   for doc in get_docs(root_path):
     logging.info(f'doc {doc.path}')
     text = doc.text
