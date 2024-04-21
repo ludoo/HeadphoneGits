@@ -21,7 +21,7 @@ Frequency response from manual ([recent measurements](#measurements) at the bott
 
 Driver.
 <br>
-<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/bcfbda4d-03b6-4609-85db-d97ede5cc934"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/bcfbda4d-03b6-4609-85db-d97ede5cc934" width="720" /></a>
+<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/bcfbda4d-03b6-4609-85db-d97ede5cc934"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/bcfbda4d-03b6-4609-85db-d97ede5cc934" width="480" /></a>
 
 ## Links
 
