@@ -33,7 +33,7 @@ Driver (Kiev version). Magnet strength handwritten on the magnet in white.
 
 ### NPO Kvant (Kiev)
 
-See [this lossy.ru post](http://www.lossy.ru/forums/showpost.php?p=5958&postcount=82). Seem to be also [branded as 'Spectrum'](http://www.lossy.ru/forums/showpost.php?p=6559&postcount=103) instead of 'Echo' ([pictures of the Spectrum variant](http://www.lossy.ru/forums/showpost.php?p=8165&postcount=176)).
+See [this lossy.ru post](http://www.lossy.ru/forums/showpost.php?p=5958&postcount=82). Seem to be also [branded as 'Spectrum'](http://www.lossy.ru/forums/showpost.php?p=6559&postcount=103) instead of 'Echo' ([pictures of the Spectrum variant](http://www.lossy.ru/forums/showpost.php?p=8165&postcount=176)), with slightly [different but incompatible cup dimensions](http://www.lossy.ru/forums/showpost.php?p=28883&postcount=687).
 
 ### Orizon plant (Smela)
 
