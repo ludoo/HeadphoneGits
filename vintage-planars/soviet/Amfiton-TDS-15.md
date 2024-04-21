@@ -71,7 +71,7 @@ Different markings on the cups, use of screws, seems related to [this model](htt
 
 ### Unidentified versions
 
-No "stereo" relief on left side of cups, colored strain relief similar to the TDS-16/16 (indicative of Ukrainian manufacturing?).
+No "stereo" relief on left side of cups, colored strain relief similar to the [TDS-16/16](./Echo-TDS-16-16) (possibly indicative of manufacturing at the NPO Kvant plant in Kiev).
 
 <a href="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/c20f4073-833e-40ce-8175-fe6dd9901a8e.png"><img src="https://headphonegits.org/assets/vintage-planars/soviet/Amfiton-TDS-15/c20f4073-833e-40ce-8175-fe6dd9901a8e.png" width="360" /></a>
 
