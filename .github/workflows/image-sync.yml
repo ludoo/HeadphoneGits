@@ -31,7 +31,7 @@ jobs:
       - name: Sync images
         id: image-sync
         run: |
-          python3 tools/image-sync.py .
+          sudo python3 tools/image-sync.py .
 
       - name: Commit changes
         run: |
