@@ -72,6 +72,7 @@ def main(root_path):
   'Program entry point.'
   logging.basicConfig(level=logging.INFO)
   logging.info(f'starting in {os.getcwd()}')
+  error = False
   for doc in get_docs(root_path):
     logging.info(f'doc {doc.path}')
     text = doc.text
@@ -82,9 +83,13 @@ def main(root_path):
         image = get_image(url, doc.image_basepath, root_path)
       except Error as e:
         logging.critical(e.args[0])
+        error = True
         continue
       text = text.replace(image.url, f'{IMG_URL}/{image.path}')
+    logging.info(f'replace {doc.path}')
     open(os.path.join(root_path, doc.path), 'w').write(text)
+  if error:
+    raise Exception('Errors processing images.')
 
 
 if __name__ == '__main__':
