@@ -21,7 +21,7 @@ Frequency response from manual ([recent measurements](#measurements) at the bott
 
 ![image](https://headphonegits.org/assets/vintage-planars/soviet/Echo-TDS-16-16/4917c2c0-8a48-43e8-9de2-59a92fe8e7d2.png)
 
-Driver (Kiev version).
+Driver (Kiev version). Magnet strength handwritten on the magnet in white.
 <br>
 <a href="https://headphonegits.org/assets/vintage-planars/soviet/Echo-TDS-16-16/669ed810-ba91-489a-b9f7-11f24672843b.png"><img src="https://headphonegits.org/assets/vintage-planars/soviet/Echo-TDS-16-16/669ed810-ba91-489a-b9f7-11f24672843b.png" width="480" /></a>
 
