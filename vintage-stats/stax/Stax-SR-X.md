@@ -6,12 +6,12 @@
 
 **Impedance:** 16 Ohm  
 
-**Release date:** 1970
-**Price at launch:** 18,000 yen
-**Diaphragm thickness:** 3.8 microns
-**Sensitivity:** 95dB/100Vr.ms
-**Weight:** 370g (excluding cord)
-**Diaphragm thickness:** 3.8um
+**Release date:** 1970  
+**Price at launch:** 18,000 yen  
+**Diaphragm thickness:** 3.8 microns  
+**Sensitivity:** 95dB/100Vr.ms  
+**Weight:** 370g (excluding cord)  
+**Diaphragm thickness:** 3.8um  
 **Discontinued:** around 1972
 
 - [SR-X mk1 page on fc2](http://20cheaddatebase.web.fc2.com/STAX/SR-X.html)
