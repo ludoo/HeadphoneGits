@@ -22,4 +22,4 @@
 
 Flat plate custom rig measurements using an Umik-1 microphone. Red = SR-X mk1, gray = SR-X mk3. Both with original pads with no pleather left (cloth surface).
 
-![image](https://github.com/ludoo/HeadphoneGits/assets/66007/b422cbf2-aa24-4f90-a176-d726d5f45ed0)
+![image](https://headphonegits.org/assets/vintage-stats/stax/Stax-SR-X/b422cbf2-aa24-4f90-a176-d726d5f45ed0.png)
