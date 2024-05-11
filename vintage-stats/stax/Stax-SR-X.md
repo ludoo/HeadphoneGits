@@ -40,10 +40,8 @@ Flat plate custom rig measurements using an Umik-1 microphone. Red = SR-X mk1, g
 
 According to the fc2 page, the driver dust protectors which were introduced after the SR-1 were removed in the mk2 (the rear one) and replaced with the black filter seen in the following picture, and then reinstated in the mk3. This might be why my mk2 have busted drivers with the coating mostly gone (very low output volume).
 
-Driver rear, showing the black filter material.  
-<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/b99478e8-932a-4834-8d4d-f0bff0fdb533"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/b99478e8-932a-4834-8d4d-f0bff0fdb533" width="720" /></a>
-
-Driver front (in an SR-5 frame).  
-<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/824286b5-edf4-4daf-8181-57ba99e0cbab"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/824286b5-edf4-4daf-8181-57ba99e0cbab" width="720" /></a>
+Driver rear showing the black filter material, and driver front (in an SR-5 frame).  
+<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/b99478e8-932a-4834-8d4d-f0bff0fdb533"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/b99478e8-932a-4834-8d4d-f0bff0fdb533" width="360" /></a>
+<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/824286b5-edf4-4daf-8181-57ba99e0cbab"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/824286b5-edf4-4daf-8181-57ba99e0cbab" width="360" /></a>
 
 
