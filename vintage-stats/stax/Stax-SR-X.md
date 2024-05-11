@@ -42,6 +42,7 @@ According to the fc2 page, the driver dust protectors which were introduced afte
 
 Driver rear showing the black filter material, and driver front (in an SR-5 frame).  
 <a href="https://github.com/ludoo/HeadphoneGits/assets/66007/b99478e8-932a-4834-8d4d-f0bff0fdb533"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/b99478e8-932a-4834-8d4d-f0bff0fdb533" width="360" /></a>
-<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/824286b5-edf4-4daf-8181-57ba99e0cbab"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/824286b5-edf4-4daf-8181-57ba99e0cbab" width="360" /></a>
+<a href="https://github.com/ludoo/HeadphoneGits/assets/66007/14559307-5f78-49ba-be43-1beb262f9744"><img src="https://github.com/ludoo/HeadphoneGits/assets/66007/14559307-5f78-49ba-be43-1beb262f9744" width="360" /></a>
+
 
 
