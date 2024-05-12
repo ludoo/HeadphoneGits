@@ -25,8 +25,6 @@ Flat plate custom rig measurements using an Umik-1 microphone. Red = SR-X mk1, g
 
 ## SR-X mk2
 
-**Impedance:** 16 Ohm  
-
 **Release date:** 1972  
 **Price at launch:** 22,000 yen  
 **Diaphragm thickness:** 3.8 microns  
